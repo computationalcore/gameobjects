@@ -18,7 +18,7 @@ Topic :: Games/Entertainment
 """
 
 setup(
-    name='gameobjects',
+    name='game_objects',
     version='0.0.3',
     author='Will McGugan',
     author_email='will@willmcgugan.com',
